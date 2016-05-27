@@ -8,5 +8,6 @@ public class JxfWfApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JxfWfApplication.class, args);
+                
 	}
 }
